@@ -3,8 +3,7 @@
 
 # 👋 Hi there, I'm Raja Kumar
 
-🎯 Aspiring Data Analyst | MIS Analyst | E-commerce Analyst                                                                                                                                                      
-
+🎯 Aspiring Data Analyst  |  MIS Analyst  |  E-commerce Analyst                                                                                                                                                      
 💼 Currently working as Ecommerce & MIS Executive at **GTGLOBAL TRADE INDIA PVT LTD**
 
 ---
