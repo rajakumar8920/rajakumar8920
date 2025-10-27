@@ -52,13 +52,7 @@
 
 ## 📌 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🎬 Netflix SQL Analysis | Insights from Netflix dataset using PostgreSQL |
-| 📈 Sales & Business Metrics Dashboard | Power BI Reports |
-| 🧼 Data Cleaning with SQL | Real-world cleaning & transformation operations |
-
-🔍 More here: 👉 **[My Repositories](https://github.com/rajakumar8920?tab=repositories)**
+🔍 here: 👉 **[My Repositories](https://github.com/rajakumar8920?tab=repositories)**
 
 ---
 
