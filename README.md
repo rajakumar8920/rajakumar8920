@@ -1,5 +1,5 @@
 <!-- Profile Views Counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajakumar&label=Profile%20Views&color=0e75b6&style=flat" alt="rajakumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajakumar8920&label=Profile%20Views&color=0e75b6&style=flat" alt="rajakumar8920" /> </p>
 
 # 👋 Hi there, I'm Raja Kumar
 
@@ -59,12 +59,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajakumar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajakumar&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajakumar8920&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajakumar8920&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajakumar&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajakumar8920&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🧭 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajakumar&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajakumar8920&theme=react-dark&hide_border=true" />
 </p>
 
 ---
