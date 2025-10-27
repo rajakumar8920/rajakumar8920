@@ -3,8 +3,7 @@
 
 # 👋 Hi there, I'm Raja Kumar
 
-🎯 Aspiring Data Analyst | SQL Developer  
-📍 Based in India 🇮🇳  
+🎯 Aspiring Data Analyst | MIS Analyst | E-commerce Analyst
 💼 Currently working as Ecommerce & MIS Executive at **GTGLOBAL TRADE INDIA PVT LTD**
 
 ---
@@ -30,8 +29,7 @@
 | **Databases** | PostgreSQL, MySQL |
 | **Analytics & BI** | Excel, Power BI, Google Sheets |
 | **Programming** | Python |
-| **Visualization** | Power BI, Matplotlib |
-| **Version Control** | Git, GitHub |
+| **Visualization** | Power BI |
 
 ---
 
@@ -55,7 +53,7 @@
 | 📈 Sales & Business Metrics Dashboard | Power BI Reports |
 | 🧼 Data Cleaning with SQL | Real-world cleaning & transformation operations |
 
-🔍 More here: 👉 **[My Repositories](https://github.com/rajakumar?tab=repositories)**
+🔍 More here: 👉 **[My Repositories](https://github.com/rajakumar8920?tab=repositories)**
 
 ---
 
