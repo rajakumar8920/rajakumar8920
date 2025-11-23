@@ -10,8 +10,7 @@
 ---
 
 ## ✅ About Me
-
-- 🎓 Pursuing **BCA** from Aryabhatta Knowledge University  
+ 
 - 📊 Skilled in **Excel, SQL (PostgreSQL), Power BI & Google Sheets**  
 - 🐍 Learning **Python** for data analysis & automation  
 - 🏅 Certified in **Business Analytics with Excel** & **Data Analysis with ChatGPT**  
